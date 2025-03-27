@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Osiel Fernandes
-# 🤵 Trabalho com front-end
-# 👨‍🎓 Estudando tecnologias de desenvolvimento Full-Stack
+# 🤵 Aprimorando os conhecimentos em front e back-end.
+# 👨‍🎓 Estudando tecnologias de desenvolvimento Full-Stack (Senai - JMT)
 # 👨 Pronome: ele/dele
 
 <div style="display: inline_block"><br>
