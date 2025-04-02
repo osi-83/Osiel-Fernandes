@@ -6,15 +6,21 @@
 Joinville, Brasil 🇧🇷  
 
 Versatilidade, criatividade em busca do conhecimento, para adquirir ciência na criação de códigos limpos com muito mais valor.
-
 ---
+
+## 📫 Como me encontrar
+
+- 🌐 [Site Pessoal]()  
+- 💼 [FaceBook](https://www.facebook.com/share/1AbbsJELms/)  
+- 📧 Email: osiel.fernandes.1983@gmail.com  
+- 🐙 Aqui no [GitHub](https://github.com/osi-83)
+
 
 ## ✨ Sobre mim
 
-
 [![Site](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osiel.fernandes.83?igsh=MTNkdm9rOXRnaHFnZw==)
 
-[Site]Facebook(https://www.facebook.com/share/1AbbsJELms/)
+
 ---
 
 #### Um pouco da vida profissional
@@ -22,6 +28,31 @@ Versatilidade, criatividade em busca do conhecimento, para adquirir ciência na 
 Sou formado em Análise e desenvolvimento de sistemas, buscando uma oportunidade para ingressar na carreira de tecnologia. No emprego anterior, desempenhava o cargo na área de manutenção industrial, como programador de manutenção, na qual fui responsavél por 3 anos na frente de equipe.
 
 ---
+
+ ## 🛠️ Tech Stack
+
+### 🚀 Front-end ##
+- HTML5, CSS3, CSS
+- JavaScript
+
+### 🧠 Back-end
+- Java
+- Node.js
+- TypeScript  
+- PostgreSQL / MySQL  / MongoDB
+
+### 📦 Outras habilidades
+- Git / GitHub  
+
+---
+
+ Apaixonado por responsividade, boas práticas de código.
+- Sempre aprendendo algo novo — atualmente focado em **Desenvolvimento web Full Stack- JMT**  
+
+---
+
+🛠️ *Sempre aberto a novas conexões, projetos e colaborações!*
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Osiel-Fernandes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -51,13 +82,6 @@ Sou formado em Análise e desenvolvimento de sistemas, buscando uma oportunidade
   <img src="https://github-readme-stats.vercel.app/api?username=Osi-83&show_icons=true" />
 </picture>
 
-
 ---
 
 
-# 🤵 Aprimorando os conhecimentos em front e back-end.
-# 👨‍🎓 Estudando tecnologias de desenvolvimento Full-Stack (Senai - JMT)
-# 👨 Pronome: ele/dele
-
-
----
